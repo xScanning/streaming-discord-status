@@ -1,0 +1,17 @@
+[+] Para que esto pueda funcionar, instalar los modulos:
+
+npm i discord.js
+npm i enmap
+npm i expres
+npm i express
+npm i express-glitch-keepalive
+npm i ffmpeg-binaries
+npm i got
+npm i moment
+npm i moment-duration-format
+npm i opusscript
+npm i xmlhttprequest
+
+[+] Instalar cada modulo, o si no, no te andara...
+
+Made By xScanning_
